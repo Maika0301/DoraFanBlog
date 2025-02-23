@@ -1,2 +1,2 @@
-# Maika Browser 1.0
+# MAIKA Browser 1.0
    最初のMaika Browser です
